@@ -4,7 +4,7 @@ A professional-grade virtual Piano application built entirely with **JavaScript*
 
 ![Project Banner](https://via.placeholder.com/1000x400?text=Virtual+Piano+Studio+Screenshot)
 ## 🚀 Live Demo
-**[Click here to play the Piano](https://your-username.github.io/your-repo-name/)**
+**[Click here to play the Piano](https://jrs-09092007.github.io/Virtual_piano/)**
 *(Replace this link with your actual GitHub Pages URL after publishing)*
 
 ---
