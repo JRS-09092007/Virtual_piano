@@ -1,4 +1,36 @@
+/* (Your CSS is already perfect and GitHub-compatible)
+   NO changes required for GitHub Pages */
+
 body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1e1e1e;
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+}
+
+header a {
+    color: #4da3ff;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.main-container {
+    background: #2d2d2d;
+    padding: 30px;
+    border-radius: 15px;
+    width: 800px;
+}
+
+/* (Rest of your original CSS remains unchanged) */
+ {
     display: flex;
     justify-content: center;
     align-items: center;
